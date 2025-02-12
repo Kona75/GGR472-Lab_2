@@ -1,0 +1,15 @@
+
+/* Adding padding the top and bottom of the page to accommodate the navbars to display text properly*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+ 
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
